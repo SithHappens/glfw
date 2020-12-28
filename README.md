@@ -1,3 +1,7 @@
+# Fork
+
+This fork introduces a premake file, so it can be included as part of other premake projects.
+
 # GLFW
 
 [![Build status](https://travis-ci.org/glfw/glfw.svg?branch=master)](https://travis-ci.org/glfw/glfw)
